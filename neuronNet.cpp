@@ -52,7 +52,6 @@ int main() {
 			} while (fneu.Correction() > fneu.LastError());
 			cout << "Iterations: " << i << endl;
 			break;
-			
 		}
 		case 2: {
 			double input;
